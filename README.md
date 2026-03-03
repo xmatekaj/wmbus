@@ -1,7 +1,10 @@
 # Apator wmbus decoder
 
-### Usage:
+### Instalation
+pip install -r requirements.txt
 
+
+### Usage:
   python decode_wmbus.py --keys keys.csv --frames frames.xls
   
   python decode_wmbus.py --keys keys.csv --frames frames.csv

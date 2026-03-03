@@ -1,0 +1,2 @@
+pycryptodome>=3.20.0   # AES-128-CBC decryption
+xlrd>=2.0.0            # reading legacy .xls frames files
