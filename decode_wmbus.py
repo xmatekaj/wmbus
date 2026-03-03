@@ -3,7 +3,7 @@
 Decoder for Apator (APA) water meter readings from the W-MBus protocol.
 
 
-Copyright (C) 2026 xmatekaj@proton.me
+Copyright (C) 2026 matekaj@proton.me
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
